@@ -7,16 +7,13 @@ An AI-powered SEO optimization tool that helps users analyze a website and ident
 ## Screenshots
 
 ### Homepage
-![Uploading 1. Homepage.png…]()
 <img width="1409" height="801" alt="1  Homepage" src="https://github.com/user-attachments/assets/f6977174-d496-42b6-a82c-dae4361fbe30" />
 
 ### SEO Analysis Results
-![SEO Analysis Results](screenshots/seo-analysis.png)
 <img width="1009" height="762" alt="2  SEO analysis results" src="https://github.com/user-attachments/assets/de4cf128-e9da-4804-8f35-0a11955ca404" />
 
 
 ### PDF Report
-![Generated SEO PDF Report](screenshots/pdf-report.png)
 <img width="614" height="866" alt="3  PDF report" src="https://github.com/user-attachments/assets/763636d1-53c9-4eab-a425-bbb1b191a7c0" />
 
 ## Features
@@ -85,5 +82,3 @@ Try Smart SEO Analyzer here:
 ## Author
 
 **Ajmal Ali Khan**
-
-[GitHub](https://github.com/ajmalalikhan07)
